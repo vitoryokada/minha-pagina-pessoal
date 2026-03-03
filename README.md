@@ -1,1 +1,2 @@
-# minha-pagina-pessoal
+# Exercicio de programação Front End - Semana 03
+
